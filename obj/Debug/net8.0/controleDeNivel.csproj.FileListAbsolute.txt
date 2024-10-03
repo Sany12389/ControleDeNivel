@@ -1,0 +1,15 @@
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\bin\Debug\net8.0\controleDeNivel.exe
+C:\Users\Alunos\Documents\Sandyla\ControleDeNivel\bin\Debug\net8.0\controleDeNivel.deps.json
+C:\Users\Alunos\Documents\Sandyla\ControleDeNivel\bin\Debug\net8.0\controleDeNivel.runtimeconfig.json
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\bin\Debug\net8.0\controleDeNivel.dll
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\bin\Debug\net8.0\controleDeNivel.pdb
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\controleDeNivel.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\controleDeNivel.AssemblyInfoInputs.cache
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\controleDeNivel.AssemblyInfo.cs
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\controleDeNivel.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\controleDeNivel.sourcelink.json
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\controleDeNivel.dll
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\refint\controleDeNivel.dll
+c:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\controleDeNivel.pdb
+C:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\controleDeNivel.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Sandyla\ControleDeNivel\obj\Debug\net8.0\ref\controleDeNivel.dll
